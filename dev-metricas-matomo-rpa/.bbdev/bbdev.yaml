@@ -1,0 +1,11 @@
+database: "none"
+archetypeVersion: "2.1.9"
+sigla: "dev"
+package: "br.com.bb.dev"
+provimentoIIB: "none"
+consumoIIB: "none"
+groupId: "br.com.bb.dev"
+artifactId: "dev-metricas-matomo-rpa"
+version: "0.1.0-SNAPSHOT"
+treinamento: "false"
+createAt: 2023-07-21T11:49:42.325850
