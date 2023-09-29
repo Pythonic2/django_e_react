@@ -1,1 +1,0 @@
--- Incluir aqui o script de carga DML e DDL do seu modelo de banco de dados.
